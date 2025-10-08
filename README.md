@@ -42,11 +42,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **Senai**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no Sesi Guarulhos e no Senai Guarulhos
+- 💻 Estou aprendendo GitHub, programação e criação de projetos web e mobile
+- 🎯 Meu objetivo é Dominar o desenvolvimento de sistemas e atuar na area
+- 📚 Gosto de aprender sobre Tecnologia e programação
+- ✝ A Bíblia nos ensina que "Honra teu pai e tua mãe, para que se prolonguem os teus dias na terra que o SENHOR teu Deus te dá" (Êxodo 20:12).
 
 ---
 
